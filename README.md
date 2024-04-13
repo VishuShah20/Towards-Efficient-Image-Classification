@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the implementation of a modified Residual Network (ResNet) designed to achieve high image classification accuracy on the CIFAR-10 dataset with the constraint of having no more than 5 million trainable parameters. This project is part of a deep learning mini-project aimed at creating efficient image classification models that are suitable for devices with limited storage capacity, such as wearable technology.
+Involves developing a customized version of the Residual Network (ResNet) architecture designed to optimize image classification accuracy on the CIFAR-10 dataset while maintaining a constraint of no more than 5 million trainable parameters. The goal is to create a model that combines efficiency in terms of size and computational demands with high performance, making it suitable for devices with limited storage capacity such as wearables and embedded systems. The project showcases an innovative approach to scaling down a powerful deep learning model without significantly compromising its accuracy.
 
 ## Use Case
 
